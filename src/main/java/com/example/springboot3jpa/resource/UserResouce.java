@@ -1,6 +1,6 @@
-package resource;
+package com.example.springboot3jpa.resource;
 
-import entities.User;
+import com.example.springboot3jpa.entities.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
